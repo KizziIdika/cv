@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: skyblue;
+    font-weight: bold;
+}
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: auto;
+    background-color: wheat;
+    padding-top: 50px;
+}
+#content{
+    font-size: 30px;
+}
+#footer{
+    height: auto;
+    background-color: black;
+    color: white;
+}
